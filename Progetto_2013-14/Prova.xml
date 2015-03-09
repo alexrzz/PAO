@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<qDB>
+    <Anello>
+        <Materiale>oro</Materiale>
+        <Qualita>750</Qualita>
+        <Prezzo>500</Prezzo>
+        <Misura>17</Misura>
+        <Solitario>0</Solitario>
+    </Anello>
+    <Orecchino>
+        <Materiale>argento</Materiale>
+        <Qualita>925</Qualita>
+        <Prezzo>200</Prezzo>
+        <Chiusura>monachella</Chiusura>
+        <Pendente>0</Pendente>
+    </Orecchino>
+    <Anello>
+        <Materiale>argento</Materiale>
+        <Qualita>925</Qualita>
+        <Prezzo>300</Prezzo>
+        <Misura>14</Misura>
+        <Solitario>1</Solitario>
+    </Anello>
+    <Orecchino>
+        <Materiale>oro</Materiale>
+        <Qualita>950</Qualita>
+        <Prezzo>2850</Prezzo>
+        <Chiusura>clip</Chiusura>
+        <Pendente>1</Pendente>
+    </Orecchino>
+    <Anello>
+        <Materiale>argento</Materiale>
+        <Qualita>925</Qualita>
+        <Prezzo>150</Prezzo>
+        <Misura>18</Misura>
+        <Solitario>0</Solitario>
+    </Anello>
+    <Anello>
+        <Materiale>oro</Materiale>
+        <Qualita>750</Qualita>
+        <Prezzo>1980</Prezzo>
+        <Misura>16.5</Misura>
+        <Solitario>1</Solitario>
+    </Anello>
+</qDB>

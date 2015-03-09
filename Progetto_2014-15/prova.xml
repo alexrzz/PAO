@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LinQedIn>
+    <UtenteExecutive>
+        <Nome>Alex</Nome>
+        <Cognome>Ruzzante</Cognome>
+        <Email>alex@ruzzante.it</Email>
+        <TitoloDiStudio>Diploma di scuola superiore</TitoloDiStudio>
+        <Lingue>Italiano, Inglese</Lingue>
+        <EspProf>Nessuna</EspProf>
+        <Presentazione>Sono Alex, ho 24 anni e vivo a Padova.</Presentazione>
+    </UtenteExecutive>
+    <UtenteBasic>
+        <Nome>Mario</Nome>
+        <Cognome>Rossi</Cognome>
+        <Email>mario@rossi.it</Email>
+        <TitoloDiStudio>Diploma di licenza media</TitoloDiStudio>
+        <Lingue>Italiano</Lingue>
+    </UtenteBasic>
+    <UtenteBusiness>
+        <Nome>Laura</Nome>
+        <Cognome>Suda</Cognome>
+        <Email>laura@suda.it</Email>
+        <TitoloDiStudio>Laurea in economia</TitoloDiStudio>
+        <Lingue>Italiano, Francese, Tedesco</Lingue>
+        <EspProf>Ceo @ Kellog's</EspProf>
+    </UtenteBusiness>
+    <UtenteExecutive>
+        <Nome>Francesca</Nome>
+        <Cognome>Grezza</Cognome>
+        <Email>francesca@grezza.it</Email>
+        <TitoloDiStudio>Laurea in scienze biomediche</TitoloDiStudio>
+        <Lingue>Italiano, Inglese, Francese</Lingue>
+        <EspProf>Direttrice di Johnson's Padova</EspProf>
+        <Presentazione>Mi chiamo Francesca e sono la direttrice della sede di Padova della nota azienda Johnson's.</Presentazione>
+    </UtenteExecutive>
+    <UtenteBusiness>
+        <Nome>Giovanni</Nome>
+        <Cognome>Mucci</Cognome>
+        <Email>giovanni@mucci.it</Email>
+        <TitoloDiStudio>Diploma di scuola superiore</TitoloDiStudio>
+        <Lingue>Italiano, Spagnolo</Lingue>
+        <EspProf>Impiegato in banca</EspProf>
+    </UtenteBusiness>
+    <UtenteBasic>
+        <Nome>Alessandra</Nome>
+        <Cognome>Mion</Cognome>
+        <Email>alessandra@mion.it</Email>
+        <TitoloDiStudio>Diploma di licenza media</TitoloDiStudio>
+        <Lingue>Italiano</Lingue>
+    </UtenteBasic>
+    <UtenteBusiness>
+        <Nome>Fabio</Nome>
+        <Cognome>Callo</Cognome>
+        <Email>fabio@callo.it</Email>
+        <TitoloDiStudio>Dottore in ingegneria informatica</TitoloDiStudio>
+        <Lingue>Italiano, Inglese</Lingue>
+        <EspProf>Programmatore @ Apple</EspProf>
+    </UtenteBusiness>
+    <UtenteBasic>
+        <Nome>Riccardo</Nome>
+        <Cognome>Vadi</Cognome>
+        <Email>riccardo@vadi.it</Email>
+        <TitoloDiStudio>Diploma di scuola superiore</TitoloDiStudio>
+        <Lingue>Italiano, Inglese</Lingue>
+    </UtenteBasic>
+    <UtenteExecutive>
+        <Nome>Hans</Nome>
+        <Cognome>Wurstel</Cognome>
+        <Email>hans@wurstel.de</Email>
+        <TitoloDiStudio>Bachelor-abschluss</TitoloDiStudio>
+        <Lingue>Deutsch, English</Lingue>
+        <EspProf>Marketing @ Wuber</EspProf>
+        <Presentazione>Hi, I'm Hans Wurstel and I work for Wuber Spa.</Presentazione>
+    </UtenteExecutive>
+    <UtenteBusiness>
+        <Nome>John</Nome>
+        <Cognome>Roland</Cognome>
+        <Email>john@roland.uk</Email>
+        <TitoloDiStudio>Bachelor's Degree</TitoloDiStudio>
+        <Lingue>English</Lingue>
+        <EspProf>Photographer</EspProf>
+    </UtenteBusiness>
+    <UtenteBasic>
+        <Nome>Gloria</Nome>
+        <Cognome>Snitzel</Cognome>
+        <Email>gloria@snitzel.au</Email>
+        <TitoloDiStudio>Diplom</TitoloDiStudio>
+        <Lingue>Deutsch</Lingue>
+    </UtenteBasic>
+    <UtenteBusiness>
+        <Nome>Narciso</Nome>
+        <Cognome>Dorador</Cognome>
+        <Email>narciso@dorador.ag</Email>
+        <TitoloDiStudio>High school degree</TitoloDiStudio>
+        <Lingue>Spanish</Lingue>
+        <EspProf>Lawyer</EspProf>
+    </UtenteBusiness>
+    <UtenteExecutive>
+        <Nome>Amance</Nome>
+        <Cognome>Slawson</Cognome>
+        <Email>amance@slawson.fr</Email>
+        <TitoloDiStudio>Degree in industrial relations</TitoloDiStudio>
+        <Lingue>French</Lingue>
+        <EspProf>Industrial Relationships</EspProf>
+        <Presentazione>Bonjour, mon nom est amance.</Presentazione>
+    </UtenteExecutive>
+</LinQedIn>
